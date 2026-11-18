@@ -3,7 +3,7 @@ img {
 }
 
 body {
-	text-align: centre;
+	text-align: center;
 	font-family: Arial, Helvetica, sans-serif;
 	color: rgb(233, 229, 224);
 	background: linear-gradient( rgb(27, 107, 168),  rgb(14, 47, 96));
