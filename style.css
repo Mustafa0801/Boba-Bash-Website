@@ -1,0 +1,30 @@
+img {
+	width: 200px;
+}
+
+body {
+	text-align: left;
+	font-family: Arial, Helvetica, sans-serif;
+	color: rgb(233, 229, 224);
+	background: linear-gradient( rgb(27, 107, 168),  rgb(14, 47, 96));
+}
+
+h1 {
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-weight: 670;
+	color: rgb(255, 255, 255);
+	text-shadow: 3px 3px 8px black;
+}
+
+button {
+	color: rgb(255, 255, 255);
+	background: linear-gradient(rgb(69, 169, 69), rgb(10, 63, 10));
+	border-radius: 12px;
+	font-size: large;
+	border: none;
+	padding: 8px;
+}
+
+p{
+	color: rgba(255, 255, 255, 0.717);
+}
